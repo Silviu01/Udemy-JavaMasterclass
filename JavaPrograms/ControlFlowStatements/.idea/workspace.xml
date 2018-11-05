@@ -2,15 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f4e5e919-373a-4173-a5fa-9401999055af" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/CE18LastDigitChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/CE19GreatestCommonDivisor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/DigitSumChallenge.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/EvenDigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/FirstLastDigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/NumberPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/SharedDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/While.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Silviu/CE23FlourPacker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Silviu/CE24LargestPrime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Silviu/CE25DiagonalStar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Silviu/FactorPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Silviu/MinAndMaxInputChallenge.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Silviu/NumberToWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Silviu/PerfectNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/Silviu/ReadingUserInputChallenge.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/ControlFlowStatements/com/Silviu/CE19GreatestCommonDivisor.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ControlFlowStatements/com/Silviu/CE19GreatestCommonDivisor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/Silviu/CE19GreatestCommonDivisor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Silviu/CE19GreatestCommonDivisor.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,35 +31,62 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="6" />
-          <entry key="java" value="3536" />
+          <entry key="dummy" value="10" />
+          <entry key="java" value="5500" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3536" />
-          <entry key="PLAIN_TEXT" value="6" />
+          <entry key="JAVA" value="5500" />
+          <entry key="PLAIN_TEXT" value="10" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="java" value="14" />
+          <entry key="java" value="22" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="JAVA" value="14" />
+          <entry key="JAVA" value="22" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/Silviu/CE19GreatestCommonDivisor.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Silviu/CE24LargestPrime.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+            <state relative-caret-position="476">
+              <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Silviu/CE25DiagonalStar.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="408">
+              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/Silviu/ReadingUserInputChallenge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="582">
+              <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/Silviu/MinAndMaxInputChallenge.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -92,6 +121,15 @@
         <option value="$PROJECT_DIR$/src/com/Silviu/SharedDigit.java" />
         <option value="$PROJECT_DIR$/src/com/Silviu/CE18LastDigitChecker.java" />
         <option value="$PROJECT_DIR$/src/com/Silviu/CE19GreatestCommonDivisor.java" />
+        <option value="$PROJECT_DIR$/src/com/Silviu/FactorPrinter.java" />
+        <option value="$PROJECT_DIR$/src/com/Silviu/PerfectNumber.java" />
+        <option value="$PROJECT_DIR$/src/com/Silviu/NumberToWords.java" />
+        <option value="$PROJECT_DIR$/src/com/Silviu/FlourPacker.java" />
+        <option value="$PROJECT_DIR$/src/com/Silviu/CE23FlourPacker.java" />
+        <option value="$PROJECT_DIR$/src/com/Silviu/CE24LargestPrime.java" />
+        <option value="$PROJECT_DIR$/src/com/Silviu/CE25DiagonalStar.java" />
+        <option value="$PROJECT_DIR$/src/com/Silviu/ReadingUserInputChallenge.java" />
+        <option value="$PROJECT_DIR$/src/com/Silviu/MinAndMaxInputChallenge.java" />
       </list>
     </option>
   </component>
@@ -136,7 +174,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541099044225" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1541414111722" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -153,9 +191,9 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CE19GreatestCommonDivisor">
-    <configuration name="CE18LastDigitChecker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Silviu.CE18LastDigitChecker" />
+  <component name="RunManager" selected="Application.CE25DiagonalStar">
+    <configuration name="CE23FlourPacker" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Silviu.CE23FlourPacker" />
       <module name="ControlFlowStatements" />
       <extension name="coverage">
         <pattern>
@@ -167,8 +205,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CE19GreatestCommonDivisor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Silviu.CE19GreatestCommonDivisor" />
+    <configuration name="CE24LargestPrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Silviu.CE24LargestPrime" />
       <module name="ControlFlowStatements" />
       <extension name="coverage">
         <pattern>
@@ -180,8 +218,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EvenDigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Silviu.EvenDigitSum" />
+    <configuration name="CE25DiagonalStar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Silviu.CE25DiagonalStar" />
       <module name="ControlFlowStatements" />
       <extension name="coverage">
         <pattern>
@@ -193,8 +231,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FirstLastDigitSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Silviu.FirstLastDigitSum" />
+    <configuration name="NumberToWords" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Silviu.NumberToWords" />
       <module name="ControlFlowStatements" />
       <extension name="coverage">
         <pattern>
@@ -206,8 +244,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SharedDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.Silviu.SharedDigit" />
+    <configuration name="PerfectNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Silviu.PerfectNumber" />
       <module name="ControlFlowStatements" />
       <extension name="coverage">
         <pattern>
@@ -220,19 +258,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.FirstLastDigitSum" />
-      <item itemvalue="Application.EvenDigitSum" />
-      <item itemvalue="Application.SharedDigit" />
-      <item itemvalue="Application.CE18LastDigitChecker" />
-      <item itemvalue="Application.CE19GreatestCommonDivisor" />
+      <item itemvalue="Application.PerfectNumber" />
+      <item itemvalue="Application.NumberToWords" />
+      <item itemvalue="Application.CE23FlourPacker" />
+      <item itemvalue="Application.CE24LargestPrime" />
+      <item itemvalue="Application.CE25DiagonalStar" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CE19GreatestCommonDivisor" />
-        <item itemvalue="Application.CE18LastDigitChecker" />
-        <item itemvalue="Application.SharedDigit" />
-        <item itemvalue="Application.EvenDigitSum" />
-        <item itemvalue="Application.FirstLastDigitSum" />
+        <item itemvalue="Application.CE25DiagonalStar" />
+        <item itemvalue="Application.CE24LargestPrime" />
+        <item itemvalue="Application.CE23FlourPacker" />
+        <item itemvalue="Application.NumberToWords" />
+        <item itemvalue="Application.PerfectNumber" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +304,7 @@
       <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2865297" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23858447" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39954337" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -385,8 +423,64 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Silviu/CE19GreatestCommonDivisor.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="5" lean-forward="true" selection-start-line="23" selection-start-column="5" selection-end-line="23" selection-end-column="5" />
+        <state relative-caret-position="425">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Silviu/FactorPrinter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="23" selection-start-line="7" selection-start-column="23" selection-end-line="7" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Silviu/PerfectNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Silviu/NumberToWords.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="75" column="22" lean-forward="true" selection-start-line="75" selection-start-column="22" selection-end-line="75" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Silviu/CE23FlourPacker.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="527">
+          <caret line="31" column="20" selection-start-line="26" selection-start-column="4" selection-end-line="31" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Silviu/CE24LargestPrime.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Silviu/CE25DiagonalStar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Silviu/ReadingUserInputChallenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="582">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/Silviu/MinAndMaxInputChallenge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="12" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
         </state>
       </provider>
     </entry>

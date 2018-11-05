@@ -8,7 +8,7 @@ public class CE19GreatestCommonDivisor {
         System.out.println(getGreatestCommonDivisor(81, 153));
     }
 
-    private static int getGreatestCommonDivisor(int first, int second) {
+    public static int getGreatestCommonDivisor(int first, int second) {
         if(first<10 || second<10){
             return -1;
         }
