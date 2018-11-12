@@ -1,0 +1,37 @@
+package com.Silviu.OOPMasterChallenge;
+
+public class HealthyBurger extends Hamburger {
+    private String healthyExtra1Name;
+    private double healthyExtra1Price;
+
+    private String healthyExtra2Name;
+    private double healthyExtra2Price;
+
+    public HealthyBurger(String meat, double basePrice) {
+        super("HealthyBurger", "Brown rye", meat, basePrice);
+    }
+
+    public void addHealthAddition1(String name, double price) {
+        this.healthyExtra1Name = name;
+        this.healthyExtra1Price = price;
+    }
+
+    public void addHealthAddition2(String name, double price) {
+        this.healthyExtra2Name = name;
+        this.healthyExtra2Price = price;
+    }
+
+    public double customizeHamburger() {
+        double priceHealthy = super.customizeHamburger();
+        if (this.healthyExtra1Name != null) {
+            priceHealthy += this.healthyExtra1Price;
+            System.out.println("added " + this.healthyExtra1Name + " for an extra " + this.healthyExtra1Price);
+        }
+        if (this.healthyExtra2Name != null) {
+            priceHealthy += this.healthyExtra2Price;
+            System.out.println("added " + this.healthyExtra2Name + " for an extra " + this.healthyExtra2Price);
+        }
+
+        return priceHealthy;
+    }
+}
