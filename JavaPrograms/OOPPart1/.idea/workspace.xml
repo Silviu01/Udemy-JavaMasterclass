@@ -2,44 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed0f213d-d789-43e6-8aa5-beaf292ae34c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/Composition/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/Composition/Case.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/Composition/Dimensions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/Composition/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/Composition/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/Composition/Motherboard.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/Composition/PC.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/Composition/Resolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/Composition/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/Composition/challenge/Bed.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/Composition/challenge/Ceiling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/Composition/challenge/Lamp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/Composition/challenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/Composition/challenge/Room.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/Composition/challenge/Wall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/Encapsulation/EnhancedPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/Encapsulation/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/Encapsulation/Player.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/Encapsulation/challenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/Encapsulation/challenge/Printer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/OOPMasterChallenge/DeluxeBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/OOPMasterChallenge/Hamburger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/OOPMasterChallenge/HealthyBurger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/OOPMasterChallenge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/Polymorphism/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/Silviu/Polymorphism/challenge/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArraysListsAutoboxingUnboxing/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArraysListsAutoboxingUnboxing/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArraysListsAutoboxingUnboxing/src/com/Silviu/arrays/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ArraysListsAutoboxingUnboxing/src/com/Silviu/arrays/challengeSort/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OOPPart1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/OOPPart1andPart2.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPPart1/com/Silviu/Car.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPPart1/com/Silviu/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPPart1/com/Silviu/bankAccount_Constructors/Account.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPPart1/com/Silviu/bankAccount_Constructors/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPPart1/com/Silviu/bankAccount_Constructors/VipCustomer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPPart1/com/Silviu/inheritance/Animal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPPart1/com/Silviu/inheritance/Dog.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/OOPPart1/com/Silviu/inheritance/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/Silviu/inheritance/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/Silviu/inheritance/Main.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -52,7 +19,7 @@
     <session id="-828420789">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="3" />
+          <entry key="project.closed" value="4" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.open.time.10" value="1" />
           <entry key="project.open.time.11" value="1" />
@@ -97,7 +64,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/Silviu/OOPMasterChallenge/Hamburger.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="673">
-              <caret line="63" column="103" lean-forward="true" selection-start-line="63" selection-start-column="103" selection-end-line="63" selection-end-column="103" />
+              <caret line="63" column="103" selection-start-line="63" selection-start-column="103" selection-end-line="63" selection-end-column="103" />
             </state>
           </provider>
         </entry>
@@ -106,7 +73,7 @@
         <entry file="file://$PROJECT_DIR$/src/com/Silviu/OOPMasterChallenge/HealthyBurger.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
             </state>
           </provider>
         </entry>
@@ -228,7 +195,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542050838235" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542095915624" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -410,7 +377,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.26218098" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.26218098" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -689,14 +656,14 @@
     <entry file="file://$PROJECT_DIR$/src/com/Silviu/OOPMasterChallenge/HealthyBurger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Silviu/OOPMasterChallenge/Hamburger.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="673">
-          <caret line="63" column="103" lean-forward="true" selection-start-line="63" selection-start-column="103" selection-end-line="63" selection-end-column="103" />
+          <caret line="63" column="103" selection-start-line="63" selection-start-column="103" selection-end-line="63" selection-end-column="103" />
         </state>
       </provider>
     </entry>
