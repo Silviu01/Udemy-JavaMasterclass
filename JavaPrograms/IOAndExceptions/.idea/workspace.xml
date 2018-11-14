@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="133746cc-a43f-4f44-b6c9-3476db1ed7e1" name="Default Changelist" comment="" />
+    <list default="true" id="08c190b2-4a18-445a-a41c-d9414046fdf7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../Generics/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NamincConvPackagesStaticFinalAccessModif/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NamincConvPackagesStaticFinalAccessModif/NamincConvPackagesStaticFinalAccessModif.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NamincConvPackagesStaticFinalAccessModif/src/com/Silviu/finalStatement/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NamincConvPackagesStaticFinalAccessModif/src/com/Silviu/finalStatement/Password.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NamincConvPackagesStaticFinalAccessModif/src/com/Silviu/finalStatement/SomeClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NamincConvPackagesStaticFinalAccessModif/src/com/Silviu/staticStatement/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NamincConvPackagesStaticFinalAccessModif/src/com/Silviu/staticStatement/StaticTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../InnerAndAbstractClassesAndInterfaces/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../InnerAndAbstractClassesAndInterfaces/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,32 +21,11 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FUSProjectUsageTrigger">
-    <session id="327202658">
+    <session id="957084647">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="1" />
           <entry key="project.open.time.0" value="1" />
           <entry key="project.opened" value="1" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.open">
-        <counts>
-          <entry key="java" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.open">
-        <counts>
-          <entry key="JAVA" value="2" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.extensions.edit">
-        <counts>
-          <entry key="java" value="432" />
-        </counts>
-      </usages-collector>
-      <usages-collector id="statistics.file.types.edit">
-        <counts>
-          <entry key="JAVA" value="432" />
         </counts>
       </usages-collector>
     </session>
@@ -45,55 +35,20 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/Silviu/Main.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Silviu/ITelephone.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/Silviu/DeskPhone.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
+            <state>
+              <caret column="14" selection-start-column="14" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Interface" />
-        <option value="Class" />
-      </list>
-    </option>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/Silviu/ITelephone.java" />
-        <option value="$PROJECT_DIR$/src/com/Silviu/DeskPhone.java" />
-        <option value="$PROJECT_DIR$/src/com/Silviu/Main.java" />
-      </list>
-    </option>
-  </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="266" />
-    <option name="y" value="8" />
+    <option name="x" value="402" />
+    <option name="y" value="13" />
     <option name="width" value="1443" />
     <option name="height" value="1015" />
   </component>
@@ -105,22 +60,21 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="InnerAndAbstractClassesAndInterfaces" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InnerAndAbstractClassesAndInterfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="IOAndExceptions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IOAndExceptions" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="InnerAndAbstractClassesAndInterfaces" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InnerAndAbstractClassesAndInterfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="IOAndExceptions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IOAndExceptions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="InnerAndAbstractClassesAndInterfaces" type="b2602c69:ProjectViewProjectNode" />
-              <item name="InnerAndAbstractClassesAndInterfaces" type="462c0819:PsiDirectoryNode" />
+              <item name="IOAndExceptions" type="b2602c69:ProjectViewProjectNode" />
+              <item name="IOAndExceptions" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="Silviu" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -129,10 +83,11 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542198062232" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542226489877" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -149,7 +104,7 @@
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.Silviu.Main" />
-      <module name="InnerAndAbstractClassesAndInterfaces" />
+      <module name="IOAndExceptions" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -163,24 +118,23 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="133746cc-a43f-4f44-b6c9-3476db1ed7e1" name="Default Changelist" comment="" />
-      <created>1542144883552</created>
+      <changelist id="08c190b2-4a18-445a-a41c-d9414046fdf7" name="Default Changelist" comment="" />
+      <created>1542226404811</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1542144883552</updated>
+      <updated>1542226404811</updated>
     </task>
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="266" y="8" width="1443" height="1015" extended-state="0" />
-    <editor active="true" />
+    <frame x="402" y="13" width="1443" height="1015" extended-state="0" />
     <layout>
       <window_info id="Image Layers" />
       <window_info id="Designer" />
       <window_info id="UI Designer" />
       <window_info id="Capture Tool" />
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28416485" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2494577" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" />
@@ -206,24 +160,10 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/Silviu/ITelephone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/Silviu/DeskPhone.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="36" selection-start-line="7" selection-start-column="36" selection-end-line="7" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/Silviu/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="9" column="32" selection-start-line="9" selection-start-column="32" selection-end-line="9" selection-end-column="32" />
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
         </state>
       </provider>
     </entry>
